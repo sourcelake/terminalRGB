@@ -2,7 +2,7 @@
 There are 2 functions currently.
 `coloured(text:string,colour: tuple)`
 and
-`cprint(text:string,colour: tuple)`
+`cprint(text:string,colour: tuple)`<br>
 ...
 yes, there are the same (on a writing pov) but cprint will print coloured text, and coloured will return coloured text
 # why did i make this?
